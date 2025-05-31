@@ -1,0 +1,14 @@
+{
+  "periodStart": "2025-06-01",
+  "periodEnd": "2025-06-30",
+  "forecast": [
+    {
+      "productId": "P6140",
+      "forecastedQuantity": 110
+    },
+    {
+      "productId": "P8961",
+      "forecastedQuantity": 102
+    }
+  ]
+}

@@ -1,0 +1,186 @@
+{
+  "periodStart": "2025-06-01",
+  "periodEnd": "2025-06-30",
+  "forecast": [
+    {
+      "category": "tank top",
+      "color": "tan",
+      "season": "Spring",
+      "forecastedQuantity": 2048
+    },
+    {
+      "category": "crop top",
+      "color": "black",
+      "season": "Spring",
+      "forecastedQuantity": 562
+    },
+    {
+      "category": "jeans",
+      "color": "navy",
+      "season": "Spring",
+      "forecastedQuantity": 520
+    },
+    {
+      "category": "dress",
+      "color": "navy",
+      "season": "Spring",
+      "forecastedQuantity": 462
+    },
+    {
+      "category": "sneakers",
+      "color": "olive",
+      "season": "Spring",
+      "forecastedQuantity": 456
+    },
+    {
+      "category": "leggings",
+      "color": "beige",
+      "season": "Spring",
+      "forecastedQuantity": 454
+    },
+    {
+      "category": "parka",
+      "color": "olive",
+      "season": "Spring",
+      "forecastedQuantity": 451
+    },
+    {
+      "category": "jumpsuit",
+      "color": "navy",
+      "season": "Spring",
+      "forecastedQuantity": 450
+    },
+    {
+      "category": "blouse",
+      "color": "navy",
+      "season": "Spring",
+      "forecastedQuantity": 446
+    },
+    {
+      "category": "windbreaker",
+      "color": "denim",
+      "season": "Spring",
+      "forecastedQuantity": 445
+    },
+    {
+      "category": "flats",
+      "color": "beige",
+      "season": "Spring",
+      "forecastedQuantity": 445
+    },
+    {
+      "category": "skirt",
+      "color": "olive",
+      "season": "Spring",
+      "forecastedQuantity": 433
+    },
+    {
+      "category": "boots",
+      "color": "white",
+      "season": "Spring",
+      "forecastedQuantity": 430
+    },
+    {
+      "category": "t-shirt",
+      "color": "beige",
+      "season": "Spring",
+      "forecastedQuantity": 427
+    },
+    {
+      "category": "jumpsuit",
+      "color": "denim",
+      "season": "Spring",
+      "forecastedQuantity": 414
+    },
+    {
+      "category": "loafer",
+      "color": "denim",
+      "season": "Spring",
+      "forecastedQuantity": 413
+    },
+    {
+      "category": "slides",
+      "color": "denim",
+      "season": "Spring",
+      "forecastedQuantity": 400
+    },
+    {
+      "category": "loafer",
+      "color": "navy",
+      "season": "Spring",
+      "forecastedQuantity": 399
+    },
+    {
+      "category": "skirt",
+      "color": "white",
+      "season": "Spring",
+      "forecastedQuantity": 397
+    },
+    {
+      "category": "sweater",
+      "color": "navy",
+      "season": "Spring",
+      "forecastedQuantity": 393
+    },
+    {
+      "category": "crop top",
+      "color": "navy",
+      "season": "Spring",
+      "forecastedQuantity": 389
+    },
+    {
+      "category": "jumpsuit",
+      "color": "white",
+      "season": "Spring",
+      "forecastedQuantity": 383
+    },
+    {
+      "category": "t-shirt",
+      "color": "black",
+      "season": "Spring",
+      "forecastedQuantity": 381
+    },
+    {
+      "category": "flats",
+      "color": "black",
+      "season": "Spring",
+      "forecastedQuantity": 377
+    },
+    {
+      "category": "coat",
+      "color": "white",
+      "season": "Spring",
+      "forecastedQuantity": 377
+    },
+    {
+      "category": "cardigan",
+      "color": "navy",
+      "season": "Spring",
+      "forecastedQuantity": 375
+    },
+    {
+      "category": "flats",
+      "color": "white",
+      "season": "Spring",
+      "forecastedQuantity": 368
+    },
+    {
+      "category": "sweater",
+      "color": "denim",
+      "season": "Spring",
+      "forecastedQuantity": 367
+    },
+    {
+      "category": "dress",
+      "color": "beige",
+      "season": "Spring",
+      "forecastedQuantity": 365
+    },
+    {
+      "category": "jeans",
+      "color": "olive",
+      "season": "Spring",
+      "forecastedQuantity": 363
+    }
+  ]
+}
