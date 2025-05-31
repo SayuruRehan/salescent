@@ -1,0 +1,46 @@
+{
+  "periodStart": "2024-12-01",
+  "periodEnd": "2024-12-31",
+  "searchTerms": [
+    {
+      "searchTerm": "winter windbreaker",
+      "growthRate": 1050.0
+    },
+    {
+      "searchTerm": "all black pullover",
+      "growthRate": 999.9
+    },
+    {
+      "searchTerm": "all black shirt",
+      "growthRate": 999.9
+    },
+    {
+      "searchTerm": "aqua shimmer barbie sea shell slides",
+      "growthRate": 999.9
+    },
+    {
+      "searchTerm": "aqua shimmer cardigan",
+      "growthRate": 999.9
+    },
+    {
+      "searchTerm": "aqua shimmer glitter pearl cardigan",
+      "growthRate": 999.9
+    },
+    {
+      "searchTerm": "aqua shimmer glitter platform heels trench coat",
+      "growthRate": 999.9
+    },
+    {
+      "searchTerm": "aqua shimmer heels",
+      "growthRate": 999.9
+    },
+    {
+      "searchTerm": "aqua shimmer iridescent pearl loafer",
+      "growthRate": 999.9
+    },
+    {
+      "searchTerm": "aqua shimmer pullover",
+      "growthRate": 999.9
+    }
+  ]
+}

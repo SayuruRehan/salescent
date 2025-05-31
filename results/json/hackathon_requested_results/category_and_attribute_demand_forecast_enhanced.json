@@ -1,0 +1,186 @@
+{
+  "periodStart": "2025-06-01",
+  "periodEnd": "2025-06-30",
+  "forecast": [
+    {
+      "category": "tank top",
+      "color": "brown",
+      "season": "summer",
+      "forecastedQuantity": 1900
+    },
+    {
+      "category": "jeans",
+      "color": "denim",
+      "season": "all-season",
+      "forecastedQuantity": 613
+    },
+    {
+      "category": "bomber jacket",
+      "color": "multi",
+      "season": "fall",
+      "forecastedQuantity": 546
+    },
+    {
+      "category": "cardigan",
+      "color": "multi",
+      "season": "spring",
+      "forecastedQuantity": 520
+    },
+    {
+      "category": "jeans",
+      "color": "denim",
+      "season": "summer",
+      "forecastedQuantity": 480
+    },
+    {
+      "category": "shorts",
+      "color": "multi",
+      "season": "summer",
+      "forecastedQuantity": 432
+    },
+    {
+      "category": "boots",
+      "color": "multi",
+      "season": "fall",
+      "forecastedQuantity": 381
+    },
+    {
+      "category": "tank top",
+      "color": "white",
+      "season": "summer",
+      "forecastedQuantity": 378
+    },
+    {
+      "category": "boots",
+      "color": "white",
+      "season": "fall",
+      "forecastedQuantity": 367
+    },
+    {
+      "category": "sandals",
+      "color": "red",
+      "season": "summer",
+      "forecastedQuantity": 352
+    },
+    {
+      "category": "jacket",
+      "color": "multi",
+      "season": "fall",
+      "forecastedQuantity": 345
+    },
+    {
+      "category": "shorts",
+      "color": "red",
+      "season": "summer",
+      "forecastedQuantity": 341
+    },
+    {
+      "category": "parka",
+      "color": "green",
+      "season": "winter",
+      "forecastedQuantity": 335
+    },
+    {
+      "category": "bomber jacket",
+      "color": "black",
+      "season": "fall",
+      "forecastedQuantity": 333
+    },
+    {
+      "category": "cardigan",
+      "color": "red",
+      "season": "spring",
+      "forecastedQuantity": 316
+    },
+    {
+      "category": "sandals",
+      "color": "multi",
+      "season": "summer",
+      "forecastedQuantity": 313
+    },
+    {
+      "category": "loafer",
+      "color": "white",
+      "season": "all-season",
+      "forecastedQuantity": 313
+    },
+    {
+      "category": "cardigan",
+      "color": "green",
+      "season": "spring",
+      "forecastedQuantity": 312
+    },
+    {
+      "category": "shorts",
+      "color": "green",
+      "season": "summer",
+      "forecastedQuantity": 310
+    },
+    {
+      "category": "sweater",
+      "color": "blue",
+      "season": "fall",
+      "forecastedQuantity": 308
+    },
+    {
+      "category": "loafer",
+      "color": "blue",
+      "season": "all-season",
+      "forecastedQuantity": 307
+    },
+    {
+      "category": "trench coat",
+      "color": "multi",
+      "season": "winter",
+      "forecastedQuantity": 305
+    },
+    {
+      "category": "sandals",
+      "color": "black",
+      "season": "summer",
+      "forecastedQuantity": 301
+    },
+    {
+      "category": "dress",
+      "color": "blue",
+      "season": "all-season",
+      "forecastedQuantity": 300
+    },
+    {
+      "category": "slides",
+      "color": "black",
+      "season": "all-season",
+      "forecastedQuantity": 299
+    },
+    {
+      "category": "jumpsuit",
+      "color": "multi",
+      "season": "all-season",
+      "forecastedQuantity": 298
+    },
+    {
+      "category": "crop top",
+      "color": "blue",
+      "season": "all-season",
+      "forecastedQuantity": 297
+    },
+    {
+      "category": "crop top",
+      "color": "multi",
+      "season": "all-season",
+      "forecastedQuantity": 291
+    },
+    {
+      "category": "sweater",
+      "color": "red",
+      "season": "fall",
+      "forecastedQuantity": 286
+    },
+    {
+      "category": "sweater",
+      "color": "denim",
+      "season": "fall",
+      "forecastedQuantity": 286
+    }
+  ]
+}

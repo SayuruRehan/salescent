@@ -1,0 +1,111 @@
+{
+  "periodStart": "2025-06-01",
+  "periodEnd": "2025-06-30",
+  "forecast": [
+    {
+      "productId": "P8961",
+      "category": "sandals",
+      "forecastedQuantity": 183
+    },
+    {
+      "productId": "P2159",
+      "category": "tank top",
+      "forecastedQuantity": 133
+    },
+    {
+      "productId": "P5591",
+      "category": "t-shirt",
+      "forecastedQuantity": 133
+    },
+    {
+      "productId": "P7285",
+      "category": "sandals",
+      "forecastedQuantity": 130
+    },
+    {
+      "productId": "P2511",
+      "category": "sandals",
+      "forecastedQuantity": 118
+    },
+    {
+      "productId": "P5944",
+      "category": "sandals",
+      "forecastedQuantity": 116
+    },
+    {
+      "productId": "P3938",
+      "category": "shorts",
+      "forecastedQuantity": 115
+    },
+    {
+      "productId": "P6949",
+      "category": "sandals",
+      "forecastedQuantity": 111
+    },
+    {
+      "productId": "P8967",
+      "category": "flats",
+      "forecastedQuantity": 111
+    },
+    {
+      "productId": "P4708",
+      "category": "shorts",
+      "forecastedQuantity": 110
+    },
+    {
+      "productId": "P6140",
+      "category": "blouse",
+      "forecastedQuantity": 110
+    },
+    {
+      "productId": "P6822",
+      "category": "shorts",
+      "forecastedQuantity": 110
+    },
+    {
+      "productId": "P7109",
+      "category": "flats",
+      "forecastedQuantity": 110
+    },
+    {
+      "productId": "P8021",
+      "category": "shorts",
+      "forecastedQuantity": 108
+    },
+    {
+      "productId": "P4301",
+      "category": "sandals",
+      "forecastedQuantity": 106
+    },
+    {
+      "productId": "P2090",
+      "category": "sandals",
+      "forecastedQuantity": 105
+    },
+    {
+      "productId": "P3863",
+      "category": "shorts",
+      "forecastedQuantity": 104
+    },
+    {
+      "productId": "P5528",
+      "category": "shorts",
+      "forecastedQuantity": 103
+    },
+    {
+      "productId": "P5751",
+      "category": "tank top",
+      "forecastedQuantity": 102
+    },
+    {
+      "productId": "P3152",
+      "category": "tank top",
+      "forecastedQuantity": 101
+    }
+  ],
+  "metadata": {
+    "total_products": 8051,
+    "seasonal_adjustment": "Summer",
+    "model_accuracy": "R\u00b2 = 0.927"
+  }
+}
